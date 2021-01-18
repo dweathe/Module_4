@@ -6,7 +6,7 @@ The purpose of this analysis is to assist the Chief Data Scientist of a school d
 ## Results:
 Using bulleted lists and images of DataFrames as support, address the following questions.
 
-* How is the district summary affected?
+* How is the district summary affected?  To begin with, we needed to know the total number of students, the total number of the schools, the total budget, the average math and reading scores,the percentage of students who passed math and reading, and the overall passing percentage in the district.
 
 * How is the school summary affected?
 
