@@ -8,6 +8,7 @@ Using bulleted lists and images of DataFrames as support, address the following 
 
 * How is the district summary affected?  To begin with, we needed to know the total number of students, the total number of the schools, the total budget, the average math and reading scores,the percentage of students who passed math and reading, and the overall passing percentage in the district.
 ![DistrictSummaryDF](School_DistrictData_Analysis/DistrictSummaryDF.png)
+Removal of the ninth graders scores due to suspected cheating, makes the data more reliable.
 
 * How is the school summary affected?
 
