@@ -11,7 +11,8 @@ Using bulleted lists and images of DataFrames as support, address the following 
 Removal of the ninth graders scores due to suspected cheating, makes the data more reliable.
 
 * How is the school summary affected?  A similar summary is generated for each school in the district. ![SchoolSummaryDF](School_District_Analysis/SchoolSummaryDF.png)
-![AllSchoolTable])School_District_Analysis/AllSchoolTable.png)
+
+![AllSchoolTable](School_District_Analysis/AllSchoolTable.png)
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 * How does replacing the ninth-grade scores affect the following:
