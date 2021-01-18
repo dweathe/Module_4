@@ -22,4 +22,8 @@ Removal of the ninth graders scores due to suspected cheating, makes the data mo
   * Scores by school type- Replacing the ninth-grade scores, doesn't appear to affect the scores by school type.
   
 ## Summary:  
-Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+In summary, the four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs are: 
+* Cleans up the data
+* Resulting data makes for a more valid and reliable data set.
+* Potential for creative problem solving (i.e. budget allocation) increases
+* Reporting of standardized test scores are presented without inaccurate data (i.e alleggations of 9th graders cheating)
