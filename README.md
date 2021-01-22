@@ -7,7 +7,7 @@ The purpose of this analysis is to assist the Chief Data Scientist of a school d
 Using bulleted lists and images of DataFrames as support, address the following questions.
 
 * How is the district summary affected?  To begin with, we needed to know the total number of students, the total number of the schools, the total budget, the average math and reading scores,the percentage of students who passed math and reading, and the overall passing percentage in the district.
-![DistrictSummaryDF]("School_District_Analysis"/DistrictSummaryDF.png)
+![DistrictSummaryDF]("School_District_Analysis/DistrictSummaryDF.png")
 Removal of the ninth graders scores due to suspected cheating, makes the data more reliable.
 
 * How is the school summary affected?  A similar summary is generated for each school in the district. ![SchoolSummaryDF](School_District_Analysis/SchoolSummaryDF.png) [AllSchoolTable](School_District_Analysis/AllSchoolTable.png)
